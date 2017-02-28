@@ -1,0 +1,9 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd">        
+    <referenceBlock name="content">
+        <block 
+            template="content.phtml" 
+            class="Ns\Hello\Block\Main" 
+            name="ns_hello_world">
+        </block>
+    </referenceBlock>
+</page>  
